@@ -1,0 +1,286 @@
+A new VO was created with these properties
+ WebsiteVO fileName= /webcrescendo/mobile
+ domain= http://siliconmtn.com
+ uri= /webcrescendo/mobile
+ html= <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Mobile Solution</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta charset="UTF-8"/>
+<meta http-equiv="content-language" content="en" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="siteName" content="mobile" />
+<meta name="siteGroup" content="SMT Corp Site II" />
+
+<link href="/binary/themes/SMT_CORP/scripts/modules.css" type="text/css" rel="stylesheet" />
+<link href="/sb/script/1327453636977/SMT_CORP/SMT_CORP_II_2.css" type="text/css" rel="stylesheet" title="main"/>
+
+<script type="text/javascript" src="/binary/common/scripts/global.js"></script>
+<script type="text/javascript" src="/sb/script/1327453636977/SMT.js"></script>
+
+<link rel="shortcut icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+	<link rel="icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+<!--[if lte IE 7.1]>
+<style type="text/css" rel="stylesheet">
+#smt_header { position: relative; z-index: 0; }
+#smt_sectionBreakTop { position: relative; z-index: 0; top: 0; }
+#pageTitle { margin-top: 0; position: relative; }
+#smt_contentWrapperOneColumn #smt_column1 { margin-top: 0; }
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="smt_page">
+	<div id="smt_pageWrapperTop"><!--IE--></div>
+		<div id="smt_pageWrapper">
+			<div id="smt_header">
+				<div id="smt_headerwrapperTop"><!--IE--></div>
+				<div id="smt_headerwrapper">
+					<div id="smt_headerLeft">
+						<a href="/"><img src="/binary/org/SMT/images/heading/SMT_Logo.gif" border="0" alt="Silicon Mountain Technologies" title="Silicon Mountain Technologies" /></a></div>
+					<div id="smt_siteSearch">
+						</div>
+					<div id="smt_headerRight">
+						<div id="smt_menu"><a class="topMenu" href="/login">
+		Customer Login</a><br/><br/>
+		<ul>
+		<li><a class="lvl1" href="/">
+			Home</a></li>
+		<li><a class="lvl1" href="/about">
+			About</a></li>
+		<li><a class="lvl1" href="/why_smt">
+			Why SMT?</a></li>
+		<li><a class="lvl1Sel" href="/webcrescendo">
+			Web Crescendo</a></li>
+		<li><a class="lvl1" href="/ethics">
+			Ethics</a></li>
+		<li><a class="lvl1" href="/personalization">
+			Personalization</a></li>
+		<li><a class="lvl1" href="/smtblog">
+			News Brief</a></li>
+		</ul>
+</div>
+					</div>
+				</div>
+				<div id="smt_headerwrapperBot"><!-- IE --></div>
+			</div><div id="smt_sectionBreakTop"><!--IE--></div>
+			
+			<div id="pageTitle" >
+				<h3>Mobile Solution</h3>
+				<div id="slogan">We're committed to integrity in all that we do.</div>
+			</div>
+			
+			<div id="smt_content">
+				<div id="smt_contentWrapperTop"><!--IE--></div>
+					<div id="smt_contentWrapper">
+						<div id="smt_column1">
+								<div id="smt_col1wrapperTop"><!--IE--></div>
+								<div id="smt_col1wrapper">
+									<div id="smt_submenu"><ul class="subMenu"><li class=""><a class="lvl2" href="/webcrescendo/user_mgmt">User Management</a>
+				</li>
+			<li class=""><a class="lvl2" href="/webcrescendo/ims">Integrated Marketing System</a>
+				</li>
+			<li class=""><a class="lvl2" href="/webcrescendo/wms">Web Management System</a>
+				</li>
+			<li class=""><a class="lvl2" href="/webcrescendo/crm">Customer Relationship Management</a>
+				</li>
+			<li class="sel"><a class="lvl2" href="/webcrescendo/mobile">Mobile Solution</a>
+				</li>
+			<li class=""><a class="lvl2" href="/webcrescendo/qr_codes">QR Codes</a>
+				</li>
+			<li class=""><a class="lvl2" href="/webcrescendo/Support">Support</a>
+				</li>
+			</ul></div>
+									<div class="modSpacer">
+		<h5 style="text-align: left; ">
+	&nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="/binary/org/SMT/images/misc/smtmobileqrcode.png" style="cursor: default; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 112px; height: 113px; " /><br />
+	<span style="font-size: 9px; ">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web Crescendo Mobile Solutions</span></h5></div>
+	<div class="modSpacer">
+		<p style="text-align: left; ">
+	&nbsp;&nbsp; &nbsp;<img alt="" src="/binary/org/SMT/images/misc/images2222.gif" style=" border: none;" /><br />
+	<span style="font-size: 9px; ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; FASTSIGNS&reg; Optimized&nbsp;Mobile Site&nbsp;</span></p></div>
+	<div class="modSpacer">
+		<img src="/binary/org/SMT/images/badges/arvada_chamber_logo.jpg" alt="Arvada Chamber of Commerce" title="Arvada Chamber of Commerce"/>
+</div>
+	<div class="modSpacer">
+		<div class="leftColServices">
+	<h5 style="text-align: left; ">
+		SERVICES</h5>
+	<p>
+		web crescendo<br />
+		email campaign system<br />
+		consumer data warehouse<br />
+		content management<br />
+		web development/support<br />
+		network security<br />
+		application development<br />
+		social media integration<br />
+		mobile device accessible</p>
+	<p>
+		integrated blog system<br />
+		metrics systems/reporting<br />
+		search engine optimization</p>
+</div></div>
+	</div>
+								<div id="smt_col1wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep1-2"><!--IE--></div>
+							<div id="smt_column2">
+								<div id="smt_col2wrapperTop"><!--IE--></div>
+								<div id="smt_col2wrapper"><div class="modSpacer">
+		<p>
+	<span class="Apple-style-span" style="color: rgb(223, 134, 30); font-size: 18px; font-weight: bold; ">Complete Control Over Your Mobile Experience!</span></p>
+<h4>
+	<span style="color: rgb(105, 105, 105); "><em>It&lsquo;s estimated that the combined installed base of smartphones and browser-equipped enhanced phones will surpass 1.82 billion units by 2013, eclipsing the total of 1.78 billion PCs by then.</em></span></h4>
+<br />
+<h3>
+	<span style="color: rgb(223, 134, 30); "><strong>Why Now?</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3>
+<p>
+	Having a mobile website has become an increasingly important asset with about one in five people in the United States accessing the internet through a mobile phone. Almost every company website can benefit from a mobile version of their site.&nbsp; &nbsp;Below are the top 10 reasons why going mobile is important and will benefit your company:</p>
+<h3>
+	<span style="color: rgb(223, 134, 30); ">&nbsp;&nbsp;<strong><em>Top 5 reasons to go Mobile:</em></strong></span></h3>
+<ol>
+	<li>
+		Google has a separate index for mobile content.</li>
+	<li>
+		57.8 MILLION Americans are online via mobile devices daily.</li>
+	<li>
+		There were over $1.6 billion in purchases made through mobile devices last year.</li>
+	<li>
+		Users average 13 hours online from their mobile devices each week.</li>
+	<li>
+		Mobile advertising will surpass $6.5 billion in 2012.</li>
+</ol>
+<p style="text-align: left; ">
+	<img alt="" src="/binary/org/SMT/images/misc/MobileStrategy_RetailSectors_1.png" style="width: 295px; height: 213px; " /></p>
+<h3>
+	<span style="color: rgb(223, 134, 30); "><strong>Why your regular website is not fully functional on a mobile device:</strong></span></h3>
+<p>
+	On a mobile phone, there is a very limited amount of screen space. If you have ever had to side scroll to view something on a website, you realize how much of an inconvenience it is. This is magnified on a mobile device. Even with the ability to turn the device lengthwise, the resolution is still extremely small.</p>
+<h3>
+	<span style="color: rgb(223, 134, 30); "><strong>Web Crescendo Advantage&rsquo;s:</strong></span></h3>
+<br />
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="vertical-align: top; width: 25px; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" /></td>
+			<td style="vertical-align: top; height: 30px; ">
+				<h4>
+					Cost savings while increasing ROI (Return on Investment).&nbsp;</h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" style="width: 20px; height: 20px; " /></td>
+			<td style="vertical-align: top; ">
+				<h4>
+					Short Message Service (SMS): A way to reach a target audience in a timely and effective manner.</h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" style="width: 20px; height: 20px; " /></td>
+			<td style="vertical-align: top; ">
+				<h4>
+					Both your regular websites and mobile sites are managed in one location.</h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" /></td>
+			<td style="vertical-align: top; ">
+				<h4>
+					Data sharing between your regular and mobile website.</h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" /></td>
+			<td>
+				<h4>
+					Websites are quick to market.</h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+			<td style="vertical-align: top; ">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; ">
+				<img alt="" src="/binary/org/SMT/images/misc/orange.png" /></td>
+			<td style="vertical-align: top; ">
+				<h4>
+					Reduced cost on testing/development. &nbsp;90% of the market is on 4 device platforms.&nbsp;</h4>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4>
+	&nbsp;</h4>
+<h4>
+	<span class="Apple-style-span" style="font-weight: normal; "><a href="/about/contact_smt">Learn More.</a></span></h4></div>
+	</div>
+								<div id="smt_col2wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep2-3"><!--IE--></div>
+							<div id="smt_column3">
+								<div id="smt_col3wrapperTop"><!--IE--></div>
+								<div id="smt_col3wrapper"></div>
+								<div id="smt_col3wrapperBot"><!--IE--></div>
+							</div>
+						</div><div id="smt_contentWrapperBot"><!--IE--></div>
+			</div><div id="smt_sectionBreakBot"><!--IE--></div>
+			
+			<div id="smt_footer">
+				<div id="smt_footerwrapperTop"><!--IE--></div>
+				<div id="smt_footerwrapper">
+					<p>
+<a href="http://m.siliconmtn.com" target="_blank"><img alt="" src="/binary/org/SMT/images/misc/smtmobileqrcode.png" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 55px; height: 55px; padding-right: 10px;" /></a>
+&copy; Silicon Mountain Technologies, Inc. 1998 - 2013 &nbsp;&bull; &nbsp;All Rights Reserved &nbsp;&bull; &nbsp;(720) 260-4768 &bull; 11000 Westmoor Circle, Suite #180, Westminster, CO 80021</p><div id="smt_footerLinks"><a href="/">Home</a>
+	<a href="/about/contact_smt">Contact Us</a>
+	<a href="/employment">Employment</a>
+	<a href="/webcrescendo/Support">Help & Support</a>
+	<a href="/privacy">Privacy Policy</a>
+	<a href="/legal">Legal Notice</a>
+	<a href="/about/location">Locations</a>
+	<a href="/site_map">Site Map</a>
+	</div>
+				</div>
+				<div id="smt_footerwrapperBot">
+					</div>
+			</div>
+			
+		</div> <div id="smt_page_WrapperBot"><!--IE--></div>
+</div> </body>
+</html>
+
+

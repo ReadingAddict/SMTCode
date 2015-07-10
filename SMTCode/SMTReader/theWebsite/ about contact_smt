@@ -1,0 +1,248 @@
+A new VO was created with these properties
+ WebsiteVO fileName= /about/contact_smt
+ domain= http://siliconmtn.com
+ uri= /about/contact_smt
+ html= <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Contact Silicon Mountain Technologies</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta charset="UTF-8"/>
+<meta http-equiv="content-language" content="en" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="siteName" content="contact_smt" />
+<meta name="siteGroup" content="SMT Corp Site II" />
+
+<link href="/binary/themes/SMT_CORP/scripts/modules.css" type="text/css" rel="stylesheet" />
+<link href="/sb/script/1327453636977/SMT_CORP/SMT_CORP_II_2.css" type="text/css" rel="stylesheet" title="main"/>
+
+<script type="text/javascript" src="/binary/common/scripts/global.js"></script>
+<script type="text/javascript" src="/sb/script/1327453636977/SMT.js"></script>
+
+<link rel="shortcut icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+	<link rel="icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+<!--[if lte IE 7.1]>
+<style type="text/css" rel="stylesheet">
+#smt_header { position: relative; z-index: 0; }
+#smt_sectionBreakTop { position: relative; z-index: 0; top: 0; }
+#pageTitle { margin-top: 0; position: relative; }
+#smt_contentWrapperOneColumn #smt_column1 { margin-top: 0; }
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="smt_page">
+	<div id="smt_pageWrapperTop"><!--IE--></div>
+		<div id="smt_pageWrapper">
+			<div id="smt_header">
+				<div id="smt_headerwrapperTop"><!--IE--></div>
+				<div id="smt_headerwrapper">
+					<div id="smt_headerLeft">
+						<a href="/"><img src="/binary/org/SMT/images/heading/SMT_Logo.gif" border="0" alt="Silicon Mountain Technologies" title="Silicon Mountain Technologies" /></a></div>
+					<div id="smt_siteSearch">
+						</div>
+					<div id="smt_headerRight">
+						<div id="smt_menu"><a class="topMenu" href="/login">
+		Customer Login</a><br/><br/>
+		<ul>
+		<li><a class="lvl1" href="/">
+			Home</a></li>
+		<li><a class="lvl1Sel" href="/about">
+			About</a></li>
+		<li><a class="lvl1" href="/why_smt">
+			Why SMT?</a></li>
+		<li><a class="lvl1" href="/webcrescendo">
+			Web Crescendo</a></li>
+		<li><a class="lvl1" href="/ethics">
+			Ethics</a></li>
+		<li><a class="lvl1" href="/personalization">
+			Personalization</a></li>
+		<li><a class="lvl1" href="/smtblog">
+			News Brief</a></li>
+		</ul>
+</div>
+					</div>
+				</div>
+				<div id="smt_headerwrapperBot"><!-- IE --></div>
+			</div><div id="smt_sectionBreakTop"><!--IE--></div>
+			
+			<div id="pageTitle" >
+				<h3>Contact Us</h3>
+				<div id="slogan">We're committed to integrity in all that we do.</div>
+			</div>
+			
+			<div id="smt_content">
+				<div id="smt_contentWrapperTop"><!--IE--></div>
+					<div id="smt_contentWrapper">
+						<div id="smt_column1">
+								<div id="smt_col1wrapperTop"><!--IE--></div>
+								<div id="smt_col1wrapper">
+									<div id="smt_submenu"><ul class="subMenu"><li class=""><a class="lvl2" href="/about/company_profile">Company Profile</a>
+				</li>
+			<li class=""><a class="lvl2" href="/about/partners">Partners</a>
+				</li>
+			<li class=""><a class="lvl2" href="/about/location">Location</a>
+				</li>
+			<li class="sel"><a class="lvl2" href="/about/contact_smt">Contact Us</a>
+				</li>
+			</ul></div>
+									<div class="modSpacer">
+		<img src="/binary/org/SMT/images/SMT-keys.jpg" border="0" alt=" " /></div>
+	<div class="modSpacer">
+		<p style="text-align: left; margin: 20px 0px 0px 35px">
+	<img alt="" src="/binary/org/SMT/images/misc/JCBRC_Approved_Button.PNG" style="width: 94px; height: 91px" /></p></div>
+	<div class="modSpacer">
+		<p>&nbsp;</p>
+<object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=8627258f39b5d97a52843c2d22876c4fa750c857&style=0" /></object></div>
+	<div class="modSpacer">
+		<img src="/binary/org/SMT/images/badges/arvada_chamber_logo.jpg" alt="Arvada Chamber of Commerce" title="Arvada Chamber of Commerce"/>
+</div>
+	<div class="modSpacer">
+		<div class="leftColServices">
+	<h5 style="text-align: left; ">
+		SERVICES</h5>
+	<p>
+		web crescendo<br />
+		email campaign system<br />
+		consumer data warehouse<br />
+		content management<br />
+		web development/support<br />
+		network security<br />
+		application development<br />
+		social media integration<br />
+		mobile device accessible</p>
+	<p>
+		integrated blog system<br />
+		metrics systems/reporting<br />
+		search engine optimization</p>
+</div></div>
+	</div>
+								<div id="smt_col1wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep1-2"><!--IE--></div>
+							<div id="smt_column2">
+								<div id="smt_col2wrapperTop"><!--IE--></div>
+								<div id="smt_col2wrapper"><div class="modSpacer">
+		<a name="c0a8023725fc8c05cc9896a4305edc3b"></a>
+<div class="subBlock contactUsPortlet cWc0a80237c3731ee2fb7d9e5e7aba7712">
+<h2><span>SMT Contact Form</span></h2>
+<p><p>
+	Use the form below to submit questions or comments to SMT.&nbsp; Someone will respond to your inquiry shortly.</p>
+</p>
+		<form action="/about/contact_smt" method="post" enctype='multipart/form-data' name="contactUsForm_c0a8023725fc8c05cc9896a4305edc3b">
+	<input type='hidden' name='pmid' value='c0a8023725fc8c05cc9896a4305edc3b'/>
+	<input type='hidden' name='contactSubmitted' value='true'/>
+	<input type='hidden' name='requestType' value='reqBuild'/>
+	<input type='hidden' name='dealerLocationId' value=''/>
+	<input type='hidden' name='infoUrl' value=''/>
+	<input type='hidden' name='profileFlag' value='true'/>
+	<input type='hidden' name='sbActionId' value='c0a80237c3731ee2fb7d9e5e7aba7712'/>
+	<input type='hidden' name='sbActionGroupId' value='c0a80237c37047fd721b8e123de99194'/>
+	<input type='hidden' name='actionName' value='SMT Contact Form'/>
+	<input type='hidden' name='contactEmailAddress' value='contact@siliconmtn.com'/>
+	<input type='hidden' name='postProcess' value=''/>
+	<input type='hidden' name='printerFriendlyTheme' value=''/>
+	<input type='hidden' name='hidePf' value=''/>
+	<table class="sForm" border="0">
+		<tr><td colspan="2"><span class="required">*&nbsp;Indicates fields that are required</span></td></tr><tr><td colspan="2">&nbsp;</td></tr>
+		
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<span class="required">*&nbsp;</span><label for="First_Name">First Name:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<input type="text" class="sForm" name="pfl_FIRST_NM" size="40" id="First_Name" value=""/>
+				</td></tr>
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<span class="required">*&nbsp;</span><label for="Last_Name">Last Name:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<input type="text" class="sForm" name="pfl_LAST_NM" size="40" id="Last_Name" value=""/>
+				</td></tr>
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<span class="required">*&nbsp;</span><label for="Email_Address">Email Address:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<input type="text" class="sForm" name="pfl_EMAIL_ADDRESS_TXT" size="40" id="Email_Address" value=""/>
+				</td></tr>
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<label for="~Primary_Phone_Number">Phone:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<input type="text" class="sForm" name="pfl_MAIN_PHONE_TXT" size="40" id="~Primary_Phone_Number" value=""/>
+				</td></tr>
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<label for="~Company_Name">Company Name:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<input type="text" class="sForm" name="con_c0a802414f24ff867cf935f18e263036" size="40" id="~Company_Name" value=""/>
+				</td></tr>
+		<tr><td class="sForm contactLeftCol" valign="top">
+						<label for="~Comments">Comments:&nbsp;</label>
+								</td>
+					<td class="sFormRight" valign="top" align="left">
+			<textarea name="con_c0a8021eeec131a489425c1d17d77f" class="sForm" cols="30" rows="5" id="~Comments"></textarea>
+				</td></tr>
+		<tr><td colspan="2">&nbsp;</td></tr>
+		    <tr><td class="sForm" valign="top">&nbsp;<span class="required">*&nbsp;</span></td>
+				<td class="sFormRight" align='left'>		
+				<input type="checkbox" id="orgConsentStatement" name="orgConsentStatement" value="1" />
+				<label for="orgConsentStatement">
+	I understand that Silicon Mountain Technologies may contact me with more information about its products and services.
+</label></td></tr>
+		<tr><td colspan="2">&nbsp;</td></tr>
+		
+		<tr><td>&nbsp;</td>
+			<td class="sFormRight" align="left">
+				<input type="button" class="button" value="Submit" onclick="submitContact(this.form,'Your submission requires  ', 'Your submission requires that you agree to the consent statement.');"/> &nbsp;
+				<label><input type="reset" class="button" value="Clear"/></label></td></tr>
+	</table>
+	</form>
+
+<script type="text/javascript">
+//Dynamic country/state lists...
+var lst = new SMTDynStateList("sb");
+
+lst.countryCd = "US";
+lst.stateCd = "";
+lst.init();
+
+</script></div>
+<div class="clear"></div>
+<div class="bigbottom smallBar"></div></div>
+	</div>
+								<div id="smt_col2wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep2-3"><!--IE--></div>
+							<div id="smt_column3">
+								<div id="smt_col3wrapperTop"><!--IE--></div>
+								<div id="smt_col3wrapper"></div>
+								<div id="smt_col3wrapperBot"><!--IE--></div>
+							</div>
+						</div><div id="smt_contentWrapperBot"><!--IE--></div>
+			</div><div id="smt_sectionBreakBot"><!--IE--></div>
+			
+			<div id="smt_footer">
+				<div id="smt_footerwrapperTop"><!--IE--></div>
+				<div id="smt_footerwrapper">
+					<p>
+<a href="http://m.siliconmtn.com" target="_blank"><img alt="" src="/binary/org/SMT/images/misc/smtmobileqrcode.png" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 55px; height: 55px; padding-right: 10px;" /></a>
+&copy; Silicon Mountain Technologies, Inc. 1998 - 2013 &nbsp;&bull; &nbsp;All Rights Reserved &nbsp;&bull; &nbsp;(720) 260-4768 &bull; 11000 Westmoor Circle, Suite #180, Westminster, CO 80021</p><div id="smt_footerLinks"><a href="/">Home</a>
+	<a href="/about/contact_smt">Contact Us</a>
+	<a href="/employment">Employment</a>
+	<a href="/webcrescendo/Support">Help & Support</a>
+	<a href="/privacy">Privacy Policy</a>
+	<a href="/legal">Legal Notice</a>
+	<a href="/about/location">Locations</a>
+	<a href="/site_map">Site Map</a>
+	</div>
+				</div>
+				<div id="smt_footerwrapperBot">
+					</div>
+			</div>
+			
+		</div> <div id="smt_page_WrapperBot"><!--IE--></div>
+</div> </body>
+</html>
+
+

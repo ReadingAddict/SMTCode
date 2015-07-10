@@ -1,0 +1,301 @@
+A new VO was created with these properties
+ WebsiteVO fileName= /about/location
+ domain= http://siliconmtn.com
+ uri= /about/location
+ html= <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SMT Company Location</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta charset="UTF-8"/>
+<meta http-equiv="content-language" content="en" />
+<meta name="description" content="View Silicon Mountain Technolgies' locations and get directions." />
+<meta name="keywords" content="" />
+<meta name="siteName" content="location" />
+<meta name="siteGroup" content="SMT Corp Site II" />
+
+<link href="/binary/themes/SMT_CORP/scripts/modules.css" type="text/css" rel="stylesheet" />
+<link href="/sb/script/1327453636977/SMT_CORP/SMT_CORP_II_2.css" type="text/css" rel="stylesheet" title="main"/>
+
+<script type="text/javascript" src="/binary/common/scripts/global.js"></script>
+<script type="text/javascript" src="/sb/script/1327453636977/SMT.js"></script>
+
+<link rel="shortcut icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+	<link rel="icon" href="/binary/org/SMT/SMT_CORP_II/images/common/smticon.jpg" type="image/x-icon" />
+<!--[if lte IE 7.1]>
+<style type="text/css" rel="stylesheet">
+#smt_header { position: relative; z-index: 0; }
+#smt_sectionBreakTop { position: relative; z-index: 0; top: 0; }
+#pageTitle { margin-top: 0; position: relative; }
+#smt_contentWrapperOneColumn #smt_column1 { margin-top: 0; }
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="smt_page">
+	<div id="smt_pageWrapperTop"><!--IE--></div>
+		<div id="smt_pageWrapper">
+			<div id="smt_header">
+				<div id="smt_headerwrapperTop"><!--IE--></div>
+				<div id="smt_headerwrapper">
+					<div id="smt_headerLeft">
+						<a href="/"><img src="/binary/org/SMT/images/heading/SMT_Logo.gif" border="0" alt="Silicon Mountain Technologies" title="Silicon Mountain Technologies" /></a></div>
+					<div id="smt_siteSearch">
+						</div>
+					<div id="smt_headerRight">
+						<div id="smt_menu"><a class="topMenu" href="/login">
+		Customer Login</a><br/><br/>
+		<ul>
+		<li><a class="lvl1" href="/">
+			Home</a></li>
+		<li><a class="lvl1Sel" href="/about">
+			About</a></li>
+		<li><a class="lvl1" href="/why_smt">
+			Why SMT?</a></li>
+		<li><a class="lvl1" href="/webcrescendo">
+			Web Crescendo</a></li>
+		<li><a class="lvl1" href="/ethics">
+			Ethics</a></li>
+		<li><a class="lvl1" href="/personalization">
+			Personalization</a></li>
+		<li><a class="lvl1" href="/smtblog">
+			News Brief</a></li>
+		</ul>
+</div>
+					</div>
+				</div>
+				<div id="smt_headerwrapperBot"><!-- IE --></div>
+			</div><div id="smt_sectionBreakTop"><!--IE--></div>
+			
+			<div id="pageTitle" >
+				<h3>Location</h3>
+				<div id="slogan">We're committed to integrity in all that we do.</div>
+			</div>
+			
+			<div id="smt_content">
+				<div id="smt_contentWrapperTop"><!--IE--></div>
+					<div id="smt_contentWrapper">
+						<div id="smt_column1">
+								<div id="smt_col1wrapperTop"><!--IE--></div>
+								<div id="smt_col1wrapper">
+									<div id="smt_submenu"><ul class="subMenu"><li class=""><a class="lvl2" href="/about/company_profile">Company Profile</a>
+				</li>
+			<li class=""><a class="lvl2" href="/about/partners">Partners</a>
+				</li>
+			<li class="sel"><a class="lvl2" href="/about/location">Location</a>
+				</li>
+			<li class=""><a class="lvl2" href="/about/contact_smt">Contact Us</a>
+				</li>
+			</ul></div>
+									<div class="modSpacer">
+		<img src="/binary/org/SMT/images/SMT-keys.jpg" border="0" alt=" " /></div>
+	<div class="modSpacer">
+		<p style="text-align: left; margin: 20px 0px 0px 35px">
+	<img alt="" src="/binary/org/SMT/images/misc/JCBRC_Approved_Button.PNG" style="width: 94px; height: 91px" /></p></div>
+	<div class="modSpacer">
+		<img src="/binary/org/SMT/images/badges/arvada_chamber_logo.jpg" alt="Arvada Chamber of Commerce" title="Arvada Chamber of Commerce"/>
+</div>
+	<div class="modSpacer">
+		<div class="leftColServices">
+	<h5 style="text-align: left; ">
+		SERVICES</h5>
+	<p>
+		web crescendo<br />
+		email campaign system<br />
+		consumer data warehouse<br />
+		content management<br />
+		web development/support<br />
+		network security<br />
+		application development<br />
+		social media integration<br />
+		mobile device accessible</p>
+	<p>
+		integrated blog system<br />
+		metrics systems/reporting<br />
+		search engine optimization</p>
+</div></div>
+	</div>
+								<div id="smt_col1wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep1-2"><!--IE--></div>
+							<div id="smt_column2">
+								<div id="smt_col2wrapperTop"><!--IE--></div>
+								<div id="smt_col2wrapper"><div class="modSpacer">
+		<!--  if Data not present, check module stuff -->
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3&amp;sensor=false&amp;key="></script>
+
+<script type="text/javascript">
+	var infoWindow = new google.maps.InfoWindow;
+	
+	// function to manage the infoWindow layers
+    function onMarkerClick(theMarker, textVal) 	{
+    		infoWindow.close();
+			infoWindow.setContent(textVal);
+			infoWindow.open(theMarker.getMap(), theMarker);
+    }
+	
+	// Create base marker icon
+	var baseIcon_c0a802372732e9d49f5337e988c13bb1 = {
+		size: new google.maps.Size(20, 34),
+		anchor: new google.maps.Point(6, 20)
+	};
+
+	// create the base marker 'shadow' icon
+	var iconShadow_c0a802372732e9d49f5337e988c13bb1 = {
+		size: new google.maps.Size(37, 34),
+		anchor: new google.maps.Point(6, 20),
+		url: '//maps.gstatic.com/mapfiles/shadow50.png'
+	};
+	
+	//  Creates a marker at the given point with the given text label
+	function createMarker_c0a802372732e9d49f5337e988c13bb1(myMap, position, textVal, letterIndex, openWin, url) {
+		// Create a lettered icon for this point using our icon class
+		var letter = String.fromCharCode("A".charCodeAt(0) + letterIndex);
+		
+		// create marker icon value object.
+		var markerIcon = {
+			url: '//www.google.com/mapfiles/marker' + letter + '.png',
+			size: baseIcon_c0a802372732e9d49f5337e988c13bb1.size,
+			anchor: baseIcon_c0a802372732e9d49f5337e988c13bb1.anchor
+		};
+
+		// set our marker options
+		var markerOptions = {
+			visible: true,
+			position: position,
+			icon: markerIcon,
+			shadow: iconShadow_c0a802372732e9d49f5337e988c13bb1,
+			map: myMap
+		};
+		
+		// create the actual marker
+		var marker = new google.maps.Marker(markerOptions);
+		
+		// add a listener for a marker click event
+		google.maps.event.addListener(marker, "click", function() {
+			if (openWin == 1) {
+				openWindow(url);
+			} else if (openWin == 2) {
+				window.location = url;
+			} else if (openWin == 3) {
+				eval(url);
+			} else {
+				onMarkerClick(marker, textVal);
+			}
+		});
+		return marker;
+	}
+	
+	// 
+	function openWindow(loc) {
+	    Shadowbox.open({
+	        content:    loc,
+			player:     "iframe",
+	        title:      "Welcome"
+
+	    });
+	}
+	
+    function load_c0a802372732e9d49f5337e988c13bb1() {
+		var uniqueId = 'map_' + 'c0a802372732e9d49f5337e988c13bb1';
+		var myMapOptions = {
+			panControl: true,
+			streetViewControl: false,
+			scrollwheel: false,
+			// Zoom is 'on' by default, remove if not requested
+			
+			// Map, Satellite, Hybrid controls are 'on' by default, remove if not requested
+			
+			// mapTypeId is REQUIRED in order for map to be visible.
+			mapTypeId: google.maps.MapTypeId.ROADMAP	
+		};
+	
+		var myMap = new google.maps.Map(document.getElementById(uniqueId), myMapOptions);
+		google.maps.event.addListener(myMap, "click", function() {
+			infoWindow.close()
+		});
+
+		
+				var sw = new google.maps.LatLng(39.892517, -105.1142011);
+				var ne = new google.maps.LatLng(41.1771938, -85.1462907);
+				var bounds = new google.maps.LatLngBounds(sw,ne);
+				
+				// make the map fit the bounds
+				myMap.fitBounds(bounds);
+				// now set the zoom level
+				var bZoomLvl = myMap.getZoom();
+				
+				if (bZoomLvl == 21) {
+					if (false) {
+						if (! isNaN(parseInt('0', 10))) {
+							bZoomLvl = bZoomLvl - parseInt('0', 10);
+						}
+					}
+				}
+				myMap.setCenter(bounds.getCenter(), (bZoomLvl));
+	    	
+       	var latLng_1 = new google.maps.LatLng(41.1771938, -85.1462907);
+        
+		var text_1 = "<b>Indiana Office</b><br/>10315 Dawson’s Creek Blvd. Suite A<br/>Fort Wayne, IN 46825";
+		
+        var marker_1 = createMarker_c0a802372732e9d49f5337e988c13bb1(myMap, latLng_1, text_1, 0, 0,'');
+            
+        
+       	var latLng_2 = new google.maps.LatLng(39.892517, -105.1142011);
+        
+		var text_2 = "<b>Corporate Office</b><br/>11000 Westmoor Circle, Building 10 Suite 180<br/>Westminster, CO 80021<br/><br/>Get Directions:<br/><form action='//maps.google.com/maps' method='get' target='_blank' style='display:inline;'><input type='text' name='saddr' id='saddr' value='' /><input type='submit' value='Submit' /><input type='hidden' name='daddr' value='11000 Westmoor Circle, Building 10 Suite 180, Westminster CO 80021 US' /><input type='hidden' name='hl' value='en' /></form>";
+		
+        var marker_2 = createMarker_c0a802372732e9d49f5337e988c13bb1(myMap, latLng_2, text_2, 1, 0,'');
+            
+        
+        	onMarkerClick(marker_2, text_2);
+        
+    	    
+    }
+    addLoadEvent(load_c0a802372732e9d49f5337e988c13bb1);
+</script>
+
+<div class="subBlock" style="margin: 0px; padding: 0px;">
+	<h2><span>SMT Corporate Locations</span></h2><p>
+Silicon Mountain Technologies is located in the beautiful Rocky Mountains. We are located near many metropolitan areas including Denver, Golden and Boulder Colorado.&nbsp; SMT also has a satellite office in Fort Wayne, Indiana. 
+</p>
+<div id="map_c0a802372732e9d49f5337e988c13bb1" style="width:625px; height:400px;"></div>
+</div>
+<div class="clear"></div>
+<div class="bigbottom"></div></div>
+	</div>
+								<div id="smt_col2wrapperBot"><!--IE--></div>
+							</div>
+							<div id="smt_columnSep2-3"><!--IE--></div>
+							<div id="smt_column3">
+								<div id="smt_col3wrapperTop"><!--IE--></div>
+								<div id="smt_col3wrapper"></div>
+								<div id="smt_col3wrapperBot"><!--IE--></div>
+							</div>
+						</div><div id="smt_contentWrapperBot"><!--IE--></div>
+			</div><div id="smt_sectionBreakBot"><!--IE--></div>
+			
+			<div id="smt_footer">
+				<div id="smt_footerwrapperTop"><!--IE--></div>
+				<div id="smt_footerwrapper">
+					<p>
+<a href="http://m.siliconmtn.com" target="_blank"><img alt="" src="/binary/org/SMT/images/misc/smtmobileqrcode.png" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 55px; height: 55px; padding-right: 10px;" /></a>
+&copy; Silicon Mountain Technologies, Inc. 1998 - 2013 &nbsp;&bull; &nbsp;All Rights Reserved &nbsp;&bull; &nbsp;(720) 260-4768 &bull; 11000 Westmoor Circle, Suite #180, Westminster, CO 80021</p><div id="smt_footerLinks"><a href="/">Home</a>
+	<a href="/about/contact_smt">Contact Us</a>
+	<a href="/employment">Employment</a>
+	<a href="/webcrescendo/Support">Help & Support</a>
+	<a href="/privacy">Privacy Policy</a>
+	<a href="/legal">Legal Notice</a>
+	<a href="/about/location">Locations</a>
+	<a href="/site_map">Site Map</a>
+	</div>
+				</div>
+				<div id="smt_footerwrapperBot">
+					</div>
+			</div>
+			
+		</div> <div id="smt_page_WrapperBot"><!--IE--></div>
+</div> </body>
+</html>
+
+
